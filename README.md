@@ -1,4 +1,4 @@
-## 🌡️ USE A TEMPERATURE SENSOR TO READ AND DISPLAY TEMPERATURE DATA ON AN LCD OR SERIAL MONITOR.
+## TEMPERATURE MONITORING SYSTEM
 
 In this project, we will create a temperature meter using a thermistor and Arduino. Before building this project, it's essential to understand the key component: the thermistor.
 
